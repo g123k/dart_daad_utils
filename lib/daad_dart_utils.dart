@@ -1,4 +1,4 @@
-library daad_utils;
+library daad_dart_utils;
 
 export 'src/bool_utils.dart';
 export 'src/collections/collections_utils.dart';
